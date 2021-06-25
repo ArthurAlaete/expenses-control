@@ -1,2 +1,2 @@
-# controle_de_despesas
-Controle de despesas feito com Javascript puro.
+# Expenses control
+Simple expenses control developed with pure Javascript.
