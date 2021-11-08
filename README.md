@@ -1,4 +1,4 @@
-![despesas](https://user-images.githubusercontent.com/54222632/140667559-3b90040c-3535-463a-be22-a952c1830c8c.png)
+![despesas](https://user-images.githubusercontent.com/54222632/140667846-bda356ee-3606-4974-88a5-24d8adf65266.png)
 
 # Expenses control ✨
 
