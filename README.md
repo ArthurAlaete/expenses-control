@@ -20,7 +20,7 @@ A simple expenses control developed with pure Javascript, HTML and CSS3.
 1. Clonning the repository:
 
 ```bash
-$ git clone https://github.com/ArthurAlaete/security_storm.git
+$ git clone https://github.com/ArthurAlaete/expenses-control.git
 ```
 
 ## Running the project 🔥
